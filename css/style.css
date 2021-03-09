@@ -1,0 +1,55 @@
+body{
+    background-image: url("img/bg.jpg");
+    font-family: 'Akaya Telivigala', cursive;
+ }
+
+ header {
+     position: relative;
+    padding: 30px;
+    text-align: center;
+    background:black;
+    color: white;
+    font-size: 30px;
+    
+  }
+h2{
+    align-content: center;
+
+}
+
+header a{
+    float: right;
+    color: white;
+}
+
+#studentGen{
+    float: left;
+    border: thin;
+    background-color: rgba(96, 96, 96,0.6);
+
+}
+
+#result{
+    position: relative;
+    float: right;
+    color: white;
+    background-color: rgba(96, 96, 96,0.6);
+
+}
+
+#stdTuition{
+    position:relative;
+    float: right;
+}
+
+footer{
+   
+        position: relative;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #eee;
+        color: white;
+        text-align: center;
+      
+}
